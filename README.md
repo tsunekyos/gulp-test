@@ -1,1 +1,9 @@
 # myEnv
+
+```
+$npm install
+```
+
+```
+$gulp
+```
